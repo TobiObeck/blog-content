@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "slug": "other-post",
+        "title": "Other Post"
+    },
+    "languages": {
+        "en": {
+            "keywords": ["bread", "sausage"]
+        },
+        "de": {
+            "keywords": ["brot", "wurst"]
+        }
+    }
+}
