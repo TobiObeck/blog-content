@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "createdon": "2022-04-05",
+        "defaultLang": "en-US"
+    },
+    "languages": {
+        "de-DE": {
+            "title": "Irgendein Artikel",
+            "description": "Ein Artikel über diesen Artikel, indem es um Dinge geht...",
+            "keywords": ["code", "Programmierung"]
+        },
+        "en-US": {
+            "title": "Some Article",
+            "description": "An article about this article by talking about things...",
+            "keywords": ["code", "programming"]
+        },
+        "fr-FR": {
+            "title": "Une Articlé",
+            "description" : "Un article sur cet article, en parlant de choses...",
+            "keywords": ["ordinateur", "programE"]
+        }
+    }
+}

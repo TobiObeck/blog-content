@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "createdon": "2022-01-01",
+        "defaultLang": "en-US"
+    },
+    "languages": {
+        "de-DE": {
+            "title": "Hallo Welt!!!",
+            "description": "Bla bla in diesem Artikel wird...",
+            "keywords": ["hallo", "welt"]
+        },
+        "en-US": {
+            "title": "Hello World!!!",
+            "description": "Bla bla in this article...",
+            "keywords": ["hello", "world"]
+        }
+    }
+}
