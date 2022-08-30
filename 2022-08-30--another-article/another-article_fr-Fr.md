@@ -1,4 +1,4 @@
-# Un autre article
+# Un autre article!
 
 Que signifie réellement le jargon industriel "60/24/7/365" ? Notre fonctionnalité est inégalée, mais notre réaffectation plug-and-play et notre configuration facile sont généralement considérées comme une formidable réussite. Vite : avez-vous un plan pour devenir cross-média ? Nous pensons que les applications web les plus efficaces utilisent beaucoup trop de XSL et pas assez de PNG. Imaginez une combinaison de HTTP et d'AJAX. La capacité d'activer parfaitement mène à la capacité de faire du tableau blanc sans diminuer notre pouvoir d'agrégation. Sans un cyber-contrôle total de la qualité planifié à l'avance, l'agrégation est forcée de devenir cross-média ? Nous pensons que la plupart des applications web C2C2C utilisent beaucoup trop de Python, et pas assez d'OWL.
 
