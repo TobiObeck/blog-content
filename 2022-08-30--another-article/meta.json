@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "defaultLang": "de-DE"
+    },
+    "languages": {
+        "de-DE": {
+            "title": "Ein weiterer Artikel",
+            "description": "Hier ist ein weiterer Artikel...",
+        },
+        "en-US": {
+            "title": "Another article",
+            "description": "Here is another article...",
+            "keywords": ["article", "writing"]
+        },
+        "fr-Fr": {
+            "title": "Un autre article"
+        },
+        "es-ES": {
+            "title": "Otro artículo"
+        }
+    }
+}
