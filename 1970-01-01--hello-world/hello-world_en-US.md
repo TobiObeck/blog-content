@@ -34,7 +34,3 @@ export default {
 
 Fun fact, on Jan 1st, 1970 time was invented: 
 [https://en.wikipedia.org/wiki/Unix_time](https://en.wikipedia.org/wiki/Unix_time)
-
-![hello text](/imgs/hello-world_100x100.png "Title")
-![hello text](./imgs/hello-world_100x100.png "Title")
-![hello text](./imgs/even_more_beautiful_flag.png "Title")
