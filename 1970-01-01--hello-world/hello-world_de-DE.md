@@ -35,8 +35,6 @@ export default {
 Erheiternde Randbemerkung, am 01.01.1970 wurde die Zeit erfunden:
 [https://de.wikipedia.org/wiki/Unixzeit](https://de.wikipedia.org/wiki/Unixzeit)
 
-![asd](./yolo.png)
-![alt text](/swag.png "Title")
 ![hello text](/imgs/hello-world_100x100.png "Title")
 ![hello text](./imgs/hello-world_100x100.png "Title")
 ![hello text](./imgs/beautiful_flag.png "Title")
