@@ -39,4 +39,4 @@ Erheiternde Randbemerkung, am 01.01.1970 wurde die Zeit erfunden:
 ![alt text](/swag.png "Title")
 ![hello text](/imgs/hello-world_100x100.png "Title")
 ![hello text](./imgs/hello-world_100x100.png "Title")
-![hello text](./imgs/de-DE/beautiful_flag.png "Title")
+![hello text](./imgs/beautiful_flag.png "Title")

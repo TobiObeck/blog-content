@@ -40,4 +40,4 @@ Fun fact, on Jan 1st, 1970 time was invented:
 ![alt text](/swag.png "Title")
 ![hello text](/imgs/hello-world_100x100.png "Title")
 ![hello text](./imgs/hello-world_100x100.png "Title")
-![hello text](./imgs/en-US/even_more_beautiful_flag.png "Title")
+![hello text](./imgs/even_more_beautiful_flag.png "Title")
