@@ -10,7 +10,7 @@ Im weiteren Verlauf dieses Beitrags werden verschiedene Elemente und Formatierun
 
 ### Links & Listen
 
-- [extern](google.com)
+- [extern](https://google.com)
 - [intern](/)
 
 1. Erste

@@ -38,10 +38,10 @@ The solution is to make the image `display: block`.
 ```html
 <div class="container">
     <p>
-        vc-hype ipsum dolor <a target="_blank" href="http://google.com">some link</a> sit AI in sports consectetur adipiscing elit.
+        vc-hype ipsum dolor <a target="_blank" href="https://google.com">some link</a> sit AI in sports consectetur adipiscing elit.
     </p>
     <p>
-        <u>some paragraph child</u> vc-hype ipsum dolor <a target="_blank" href="http://google.com">another link</a> sit AI in sports consectetur adipiscing elit. data pipelines cognitive science specialized (CSS) neural networks (NN).
+        <u>some paragraph child</u> vc-hype ipsum dolor <a target="_blank" href="https://google.com">another link</a> sit AI in sports consectetur adipiscing elit. data pipelines cognitive science specialized (CSS) neural networks (NN).
     </p>
     <p>
         <a target="_blank" href="https://picsum.photos/200/100">
