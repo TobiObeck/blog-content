@@ -5,12 +5,12 @@
     "languages": {
         "de-DE": {
             "title": "Hallo Welt!!!",
-            "description": "Bla bla in diesem Artikel wird...",
+            "description": "Platzhalter Artikel, der zeigt, welche Feautures der Blog hat.",
             "keywords": ["hallo", "welt"]
         },
         "en-US": {
             "title": "Hello World!!!",
-            "description": "Bla bla in this article...",
+            "description": "Placeholder article that shows what features the blog has.",
             "keywords": ["hello", "world"]
         }
     }

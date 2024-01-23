@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "defaultLang": "en-US",
+        "status": "published"
+    },
+    "languages": {
+        "en-US": {
+            "title": "Preventing Background Click of Link-Wrapped Image with :has()",
+            "description": "Wrapping an <img> with an <a> tag is a simple solution for enlarging images, but comes with the downside of making the space next to the image clickable if you are not careful.",
+            "keywords": ["img", "image", "css", "margin"]
+        }
+    }
+}

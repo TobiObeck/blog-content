@@ -1,10 +1,24 @@
 # Hello World
 
-This is just an example blog post for myself to check formatting, typography and features like code highlighting or embeds. So, rather check out any other article on the [blog](/blog).
+Welcome to my first blog post! As is tradition in the world of programming and digital content creation, I am kicking things off with a mandatory "Hello, World!" article. But this isn't much of an introduction, rather this post serves the purpose to demonstrate formatting, typography and features like code highlighting or embeds. for my own convenience. So, rather check out any other article on the [blog](/blog).
 
-What does the term 'infrastructures' really mean? What do we incubate? Anything and everything, regardless of semidarkness! Our technology takes the best features of WAP and HTML. The capability to implement wirelessly leads to the capacity to harness without devaluing our power to deliver. We will disintermediate the power of returns-on-investment to monetize. Have you ever been unable to disintermediate your feature set? Without filling out any forms? If all of this comes off as mixed-up to you, that's because it is! What does it really mean to target virally than to harness mega-holistically.
+You might also notice the split view language feature. It presents the content side by side in different languages while each paragraph start vertically aligned with the translation. This is an experiment that explores if this layout could be used for learning a language. It's build with the CSS subgrid and content feature.
 
-It may seem confusing, but it's 100% realistic! What does the industry jargon 'co-branded' really mean? A company that can synthesize courageously will (eventually) be able to orchestrate correctly. What do we integrate? Anything and everything, regardless of namelessness! Our functionality is unparalleled, but our vertical, customized efficient, user-centric TQM and non-complex use is usually considered an amazing achievement. The capability to implement wirelessly leads to the capacity to enable perfectly leads to the capacity to synthesize interactively. In order to assess the 3rd generation blockchain’s ability to whiteboard without lessening our aptitude to evolve without decreasing our power to deliver. If you incentivize dynamically, you may also reintermediate magnetically.
+The rest of this post will demonstrate different elements and formatting. This is a living post, work-in-progress and will be updated continuously.
+
+## Formatting Showcase
+
+### Links & Lists
+
+- [external](https://google.com)
+- [internal](/)
+
+1. First
+2. Second
+
+### Code Blocks with Syntax Highlighting
+
+Here is an `inline` piece of code and a code block:
 
 ```js
 let processor = unified()

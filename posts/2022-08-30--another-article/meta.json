@@ -1,6 +1,7 @@
 {
     "meta": {
-        "defaultLang": "de-DE"
+        "defaultLang": "de-DE",
+        "status": "draft"
     },
     "languages": {
         "de-DE": {
