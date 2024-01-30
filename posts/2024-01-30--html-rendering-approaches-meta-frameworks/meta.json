@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "defaultLang": "en-US",
+        "status": "draft"
+    },
+    "languages": {
+        "en-US": {
+            "title": "Primer on HTML Rendering Approaches and Meta-Frameworks",
+            "description": "",
+            "keywords": ["HTML", "CSR", "SSR", "Prerendering", "SSG", "SvelteKit", "Svelte"]
+        }
+    }
+}
