@@ -12,6 +12,7 @@ The rest of this post will demonstrate different elements and formatting. This i
 
 - [external](https://google.com)
 - [internal](/)
+- [linking to same page headings](#gfm)
 
 1. First
 2. Second
@@ -52,3 +53,37 @@ Fun fact, on Jan 1st, 1970 time was invented:
 ![Here is the 100x100 Fig caption](/imgs/hello-world_100x100.png "This is the hover title")
 ![hello text](./imgs/hello-world_100x100.png "Bread")
 ![Beautiful flag](./imgs/even_more_beautiful_flag.png "Title")
+
+## GFM
+
+### Autolink literals
+
+www.example.com, https://example.com, and contact@example.com.
+
+## Footnote
+
+A note[^1]
+
+[^1]: Big note.
+
+## Strikethrough
+
+~one~ or ~~two~~ tildes.
+
+## Table
+
+| a | b  |  c |  d  |
+| - | :- | -: | :-: |
+| 1 | 2 | 3 | 4 |
+
+## Tasklist
+
+* [ ] to do
+* [x] done
+
+| Alpha    | Bravo   |
+| -------- | ------- |
+| Delta       | Charlie |
+| 1 | 2   |
+| 3 | 4   |
+| 5 | 6 |

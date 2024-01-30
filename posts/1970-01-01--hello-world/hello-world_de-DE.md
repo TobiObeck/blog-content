@@ -12,6 +12,7 @@ Im weiteren Verlauf dieses Beitrags werden verschiedene Elemente und Formatierun
 
 - [extern](https://google.com)
 - [intern](/)
+- [linking to same page headings](#gfm)
 
 1. Erste
 2. Zweite
@@ -52,3 +53,37 @@ Erheiternde Randbemerkung, am 01.01.1970 wurde die Zeit erfunden:
 ![Hier ist die 100x100 Beschriftung (figcaption)](/imgs/hello-world_100x100.png "Das ist der hover Titel")
 ![hello text](./imgs/hello-world_100x100.png "Brot")
 ![Wunderschöne Flagge](./imgs/beautiful_flag.png "Title")
+
+## GFM
+
+### Autolink literals
+
+www.example.com, https://example.com, and contact@example.com.
+
+## Fußnote
+
+Eine Notiz[^1]
+
+[^1]: Große Notiz.
+
+## Durchgestrichen
+
+~eins~ oder ~~zwei~~ Tilden.
+
+## Tabelle
+
+| a | b  |  c |  d  |
+| - | :- | -: | :-: |
+| 1 | 2 | 3 | 4 |
+
+## Aufgabenliste
+
+* [ ] aufgabe
+* [x] erledigt
+
+| Alpha    | Bravo   |
+| -------- | ------- |
+| Delta       | Charlie |
+| 1 | 2   |
+| 3 | 4   |
+| 5 | 6 |
