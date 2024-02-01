@@ -1,8 +1,8 @@
 # Hallo Welt
 
-Willkommen zu meinem ersten Blogeintrag! Wie in der Welt der Programmierung und der Erstellung digitaler Inhalte üblich, beginne ich mit einem obligatorischen "Hello, World!"-Artikel. Aber das ist keine wirkliche Einführung, sondern dieser Beitrag dient eher dazu, Formatierung, Typografie und Funktionen wie Code-Hervorhebung oder Einbettungen zu demonstrieren. zu meiner eigenen Bequemlichkeit. Schauen Sie sich also lieber einen anderen Artikel auf dem [blog](/blog) an.
+Willkommen zu meinem ersten Blogeintrag! Wie in der Welt der Programmierung und der Erstellung digitaler Inhalte üblich, beginne ich mit einem obligatorischen "Hello, World!"-Artikel. Aber das ist keine wirkliche Einführung, sondern dieser Beitrag dient eher dazu, Formatierung, Typografie und Funktionen wie Code-Hervorhebung oder Einbettungen zu demonstrieren. zu meiner eigenen Bequemlichkeit. Schauen dir also lieber einen anderen Artikel auf dem [blog](/blog) an.
 
-Vielleicht fällt Ihnen auch die Funktion der geteilten Ansicht auf. Sie zeigt den Inhalt nebeneinander in verschiedenen Sprachen an, wobei jeder Absatz vertikal mit der Übersetzung beginnt. Dies ist ein Experiment, mit dem untersucht wird, ob dieses Layout zum Erlernen einer Sprache verwendet werden kann. Es wurde mit dem CSS-Untergitter und der Inhaltsfunktion erstellt.
+Vielleicht fällt dir auch die Funktion der geteilten Ansicht auf. Sie zeigt den Inhalt nebeneinander in verschiedenen Sprachen an, wobei jeder Absatz vertikal mit der Übersetzung beginnt. Dies ist ein Experiment, mit dem untersucht wird, ob dieses Layout zum Erlernen einer Sprache verwendet werden kann. Es wurde mit dem CSS-Untergitter und der Inhaltsfunktion erstellt.
 
 Im weiteren Verlauf dieses Beitrags werden verschiedene Elemente und Formatierungen vorgestellt. Dies ist ein lebendiger Beitrag, der laufend aktualisiert wird.
 
@@ -48,10 +48,9 @@ export default {
 ```
 
 Erheiternde Randbemerkung, am 01.01.1970 wurde die Zeit erfunden:
+
 [https://de.wikipedia.org/wiki/Unixzeit](https://de.wikipedia.org/wiki/Unixzeit)
 
-![Hier ist die 100x100 Beschriftung (figcaption)](/imgs/hello-world_100x100.png "Das ist der hover Titel")
-![hello text](./imgs/hello-world_100x100.png "Brot")
 ![Wunderschöne Flagge](./imgs/beautiful_flag.png "Title")
 
 ## GFM
@@ -70,9 +69,9 @@ Eine Notiz[^1]
 
 ~eins~ oder ~~zwei~~ Tilden.
 
-## Tabelle
+## Eine Tabelle mit verschiedenen Textausrichtungen
 
-| a | b  |  c |  d  |
+| Normal | Links  | Rechts | Zentriert |
 | - | :- | -: | :-: |
 | 1 | 2 | 3 | 4 |
 
@@ -81,9 +80,17 @@ Eine Notiz[^1]
 * [ ] aufgabe
 * [x] erledigt
 
-| Alpha    | Bravo   |
-| -------- | ------- |
-| Delta       | Charlie |
-| 1 | 2   |
-| 3 | 4   |
-| 5 | 6 |
+## Ein größere Tabelle mit Harry-Potter-Figuren
+
+Figuren mit einem anderen Namen im Englischen sind **fett** markiert.
+
+| Gryffindor             | Hufflepuff            | Ravenclaw            | Slytherin            | **Lehrer**                | Muggel               |
+|------------------------|-----------------------|----------------------|----------------------|-----------------------|----------------------|
+| Harry Potter           | Cedric Diggory        | Luna Lovegood        | Draco Malfoy         | Albus Dumbledore      | Vernon Dursley       |
+| **Hermine** Granger        | Nymphadora Tonks      | Cho Chang            | Severus Snape        | Minerva McGonagall    | Petunia Dursley      |
+| Ron Weasley            | Pomona Sprout         | Filius Flitwick      | Pansy Parkinson      | Severus Snape         | Dudley Dursley       |
+| Neville Longbottom     | Newt Scamander        | Gilderoy Lockhart    | Blaise Zabini        | Rubeus Hagrid         | Marge Dursley        |
+| Ginny Weasley          | Ernie Macmillan       | Sybill Trelawney     | Horace Slughorn      | Dolores Umbridge      | **Herr** Granger         |
+| Sirius Black           | Hannah Abbott         | Marietta Edgecombe   | Regulus Black        | Remus Lupin           | **Frau** Granger         |
+| James Potter           | Justin Finch-Fletchley| Michael Corner       | Tom Riddle           | Gilderoy Lockhart     | Mrs. Figg            |
+| Lily Potter            |                       |                      | Bellatrix Lestrange  | Horace Slughorn       | Kathrin Fricke                     |

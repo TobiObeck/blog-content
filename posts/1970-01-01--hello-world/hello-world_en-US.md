@@ -47,11 +47,10 @@ export default {
 };
 ```
 
-Fun fact, on Jan 1st, 1970 time was invented: 
+Fun fact, on Jan 1st, 1970 time was invented:
+
 [https://en.wikipedia.org/wiki/Unix_time](https://en.wikipedia.org/wiki/Unix_time)
 
-![Here is the 100x100 Fig caption](/imgs/hello-world_100x100.png "This is the hover title")
-![hello text](./imgs/hello-world_100x100.png "Bread")
 ![Beautiful flag](./imgs/even_more_beautiful_flag.png "Title")
 
 ## GFM
@@ -70,9 +69,9 @@ A note[^1]
 
 ~one~ or ~~two~~ tildes.
 
-## Table
+## A Table with different text-alignments
 
-| a | b  |  c |  d  |
+| Normal | Left | Right | Centered |
 | - | :- | -: | :-: |
 | 1 | 2 | 3 | 4 |
 
@@ -81,9 +80,17 @@ A note[^1]
 * [ ] to do
 * [x] done
 
-| Alpha    | Bravo   |
-| -------- | ------- |
-| Delta       | Charlie |
-| 1 | 2   |
-| 3 | 4   |
-| 5 | 6 |
+## A Bigger Table With Harry Potter Characters
+
+Characters with a different name in German are marked **bold**.
+
+| Gryffindor             | Hufflepuff            | Ravenclaw            | Slytherin            | Teachers              | Muggles               |
+|------------------------|-----------------------|----------------------|----------------------|-----------------------|-----------------------|
+| Harry Potter           | Cedric Diggory        | Luna Lovegood        | Draco Malfoy         | Albus Dumbledore      | Vernon Dursley        |
+| **Hermione** Granger       | Nymphadora Tonks      | Cho Chang            | Severus Snape        | Minerva McGonagall    | Petunia Dursley       |
+| Ron Weasley            | Pomona Sprout         | Filius Flitwick      | Pansy Parkinson      | Severus Snape         | Dudley Dursley        |
+| Neville Longbottom     | Newt Scamander        | Gilderoy Lockhart    | Blaise Zabini        | Rubeus Hagrid         | Marge Dursley         |
+| Ginny Weasley          | Ernie Macmillan       | Sybill Trelawney     | Horace Slughorn      | Dolores Umbridge      | **Mr.** Granger           |
+| Sirius Black           | Hannah Abbott         | Marietta Edgecombe   | Regulus Black        | Remus Lupin           | **Mrs.** Granger          |
+| James Potter           | Justin Finch-Fletchley| Michael Corner       | Tom Riddle           | Gilderoy Lockhart     | Mrs. Figg             |
+| Lily Potter            |                       |                      | Bellatrix Lestrange  | Horace Slughorn       | Coldmirror                 |
