@@ -1,12 +1,12 @@
 {
     "meta": {
         "defaultLang": "en-US",
-        "status": "draft"
+        "status": "published"
     },
     "languages": {
         "en-US": {
             "title": "Primer on HTML Rendering Approaches and Meta-Frameworks",
-            "description": "",
+            "description": "Learn about static servers, MPAs, SPAs, and transitional apps to deliver the best user experience for your use case.",
             "keywords": ["HTML", "CSR", "SSR", "Prerendering", "SSG", "SvelteKit", "Svelte"]
         }
     }
