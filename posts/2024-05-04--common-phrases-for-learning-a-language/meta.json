@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "defaultLang": "en-US",
+        "status": "published"
+    },
+    "languages": {
+        "de-DE": {
+            "title": "Gebräuchliche Redewendungen zum Erlernen einer Sprache",
+            "description": "Gängige Sätze zum Erlernen einer Sprache",
+            "keywords": [""]
+        },
+        "en-US": {
+            "title": "Common Phrases For Learning A Language",
+            "description": "Here are some common phrases for learning a language.",
+            "keywords": ["language learning", "language acquisition"]
+        }
+    }
+}
