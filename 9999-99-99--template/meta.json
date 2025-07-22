@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "defaultLang": "en-US",
+        "status": "draft"
+    },
+    "languages": {
+        "de-DE": {
+            "title": "TITEL",
+            "description": "PLATZHALTER!!!",
+            "keywords": [""]
+        },
+        "en-US": {
+            "title": "TITLE",
+            "description": "PLACEHOLDER!!!",
+            "keywords": [""]
+        }
+    }
+}
