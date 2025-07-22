@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "defaultLang": "en-US",
+        "status": "draft"
+    },
+    "languages": {
+        "en-US": {
+            "title": "TITLE",
+            "description": "PLACEHOLDER!!!",
+            "keywords": [""]
+        }
+    }
+}
