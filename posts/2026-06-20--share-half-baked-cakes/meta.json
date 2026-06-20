@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "defaultLang": "en-US",
+        "status": "draft"
+    },
+    "languages": {
+        "en-US": {
+            "title": "Share Half-Baked Cakes",
+            "description": "Don't get paralyzed by perfectionism nor dismiss your own creationgs. Share half-baked goods. They are good enough.",
+            "keywords": ["perfectionism", "fear", "acceptance"]
+        }
+    }
+}
