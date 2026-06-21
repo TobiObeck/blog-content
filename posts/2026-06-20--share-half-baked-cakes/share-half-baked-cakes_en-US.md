@@ -87,7 +87,7 @@ The point I am actually trying to make is that even unfinished or half-baked cre
 
 An example and proponent of this idea is Visakan Veerasamy with his self-published ebook Introspect. The book is unpolished in many ways compared to traditional book publishing standards (e.g. a bit repetitive, verbose, not proof-read by an editor, and so on). Among other topics, it covers themes like understanding your emotions, clearing mental fog, and resolving inner conflicts that prevent you from living your life to the fullest. It contains all sorts of advice to try and could be described as a handbook for digging deeper into one's self to uncover the root cause of personal problems and shortcomings in your life.
 
-The book's contents are interrupted by a few interesting meta-commentary sections that are written in right-aligned text and a kind of fourth-wall breaking way (see a screenshot of one section in the footnotes[^2]). It's a clear cut from the normal prose, which allows the reader to witness the author's inner monologue and self-critical thoughts. The kind of self-doubting thoughts and mental negotiations, you might have with yourself as well.
+The book's contents are interrupted by a few interesting meta-commentary sections that are written in right-aligned text and a kind of fourth-wall breaking way (see screenshots of two sections in the footnotes[^2]). It's a clear cut from the normal prose, which allows the reader to witness the author's inner monologue and self-critical thoughts. The kind of self-doubting thoughts and mental negotiations, you might have with yourself as well.
 
 The commentary compares and puts the imperfection of both the book and one's life into perspective. It describes the flaws of the book and how it should be further improved in future versions. The writing project was challenging and at the edge of the author's abilities. He describes that he has to publish the book in it's current state, otherwise it would stay in the writing stage for too long and not serve anyone.
 
@@ -150,6 +150,6 @@ Another concern that I didn't address, are statements that might clash against t
 
 [^1]: The Pottery Paradox is about creative work from David Bayles and Ted Orland’s book, [Art & Fear](https://www.amazon.com/exec/obidos/ASIN/0961454733/wwwaustinkleo-20/ref=nosim/). The origin story is actually about photography students. Students were split in 2 groups. The group tasked to take many photo got the best results. So, take more photos. https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/
 
-[^2]: ![here a screenshot of the text snippet](./imgs/Introspect_meta-commentary_by_visa.png "screenshot of the meta-commentary")
+[^2]: Here are two of these meta-commentare sections ![meta-commentary 1](./imgs/Introspect_meta-commentary_by_visa.png "screenshot of the meta-commentary") and another one ![meta-commentary 2](./imgs/Introspect_meta-commentary_by_visa2.png "screenshot of the meta-commentary")
 
 [^3]: ["The Average Fourth Grader Is a Better Poet Than You (and Me Too)"](https://www.poetryfoundation.org/featured-blogger/67400/the-average-fourth-grader-is-a-better-poet-than-you-and-me-too) by Hannah Gamble via ["to feel and to fail"](https://visakanv.substack.com/p/to-feel-and-to-fail) by Visakan Veerasamy
