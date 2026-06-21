@@ -10,29 +10,31 @@ In a similar vain it is easy to dismiss your own creations. How can you even jud
 
 ![Banana ripeness levels from green over yellow to yellow with dark spots](./imgs/banana_ripeness_level.png "Banana ripeness levels from green over yellow to yellow with dark spots")
 
-Imagine some varied comments from different people: Someone liking the yellow to greenish one because they are high in fibre and low in sugar. Another person like the riper sweeter ones but hates the disgusting black dots and mushy mushy texture. Yet another person has a hard time throwing away an overripe banana and makes pancakes with them etc.
+Some people like the yellow to greenish ones because they are high in fibre and low in sugar. Another person likes the riper sweeter ones but hates the disgusting black dots and mushy texture. Yet another person has a hard time throwing away an overripe banana and makes pancakes with them etc.
 
 The same applies for consuming media. Different people get the most out of different parts of a YouTube video, a blog post or a book. Some people like the easy to understand introduction, some the joke in the middle, while others got their appetite for knowledge satiated during the dense in-depth part at the very end.
 
 This also applies in the world of startups where founders are convinced their startup is the greatest next big thing that ever existed. But the market decides often differently. Only 5% or whatever small number of businesses survive longer than 5 years (_I don't care to look up a source but something in this direction should be right_). Basically the same can be said about a single founder with many products. For the indie hacker Pieter Levels (@levelsio) [only 5% of his products reached product-market fit](https://x.com/levelsio/status/1457315274466594817). All else were duds and not worth investing more time into.
 
-> Only 4 out of 70+ projects I ever did made money and grew
-> 95% of everything I ever did failed
-> My hit rate is only about ~5%
+> Only 4 out of 70+ projects I ever did made money and grew\
+> 95% of everything I ever did failed\
+> My hit rate is only about ~5%\
 > So...ship more - levelsio
 
 Same for investing into startups by incubators/accelerators or VCs. Only a small fraction of their portfolio will have outstanding returns. Most startups fail in the early days/years without finding product market fit. But a few exceptional ones create outstanding returns, which makes it up for the failed ones and worth it altogether. And the investors know this. That's why they diversify their investment into multiple startups instead of throwing everything into one bucket.
 
-So, publish more small, experimental, or half-finished things and let the public decide what is worth and what isn't. Quantity creates more opportunities for outlier success. And I also believe that quantity eventually leads to quality. So, every half-baked creation counts as repetitions for practice; at least if you try your best and invest deliberate effort. There is a parable called the Pottery Paradox that supports this idea (more about it in the footnotes[^1]). Visakan Veerasamy shares the sentiment about high quality work by sheer chance: 
+So, publish more small, experimental, or half-finished things and let the public decide what is worth and what isn't. Quantity creates more opportunities for outlier success. And I also believe that quantity eventually leads to quality. So, every half-baked creation counts as repetitions for practice; at least if you try your best and invest deliberate effort.
 
-> This is the luck you get from _doing things_. If you write lots of tweets, eventually some of them will do better than others. Maybe you accidentally said something insightful-sounding.  
-> 
+There is a parable called the Pottery Paradox that supports this idea (more about it in the footnotes[^1]). Also, Visakan Veerasamy shares a similar sentiment that you produce high quality work by sheer chance:
+
+> This is the luck you get from _doing things_. If you write lots of tweets, eventually some of them will do better than others. Maybe you accidentally said something insightful-sounding.\
+>\
 > People who don’t tinker persistently may not appreciate just how _the process of tinkering itself fundamentally introduces variability._ Someone with “B” level ability on average will occasionally produce A+ work by sheer chance. If you’re lucky, it will be recognized and you will be rewarded accordingly. (Notice the passive voice here – it’s significant, because…)
 > https://www.visakanv.com/blog/luck/
 
 ---
 
-But how come we have so much fear and restriction to speak our minds and share our creations on the internet? How come so many people fear public speaking in front of an audience? How come many men feel social anxiety approaching an attractive woman?
+But how come we have so much fear and restriction to speak our minds and share our creations (on the internet)? How come so many people fear public speaking in front of an audience? How come many men feel social anxiety approaching an attractive woman?
 
 It's fear.
 
@@ -63,19 +65,19 @@ There are too many projects that end up rotting away in a dusty corner never bro
 
 ![Snippets from the beginning and end of "Here's How To Live. Create." by Derek Sievers](./imgs/here_is_how_to_live_create_by_derek_sivers.png "Snippets from the beginning and end of \"Here's How To Live. Create.\" by Derek Sievers")
 
-If you don't finish nor share, you'll likely feel regret and (subconsciously) think of yourself as a quitter. I also feel this kind of regret for a couple of things (a bit of a rambling anecdote ahead): for example, I worked on a cool rhythm game for a web browser and a device that visualize the played drum/note from my real e-drum set; more precisely, a Guitar Hero clone web application and Arduino-powered LED visualization (both with MIDI support). Maybe I am the only person world-wide that built this exact combination of things. And still, I never made a proper video showing it off.
+If you don't finish nor share, you'll likely feel regret and (subconsciously) think of yourself as a quitter. I also feel this kind of regret for a couple of things (a bit of a rambling anecdote ahead): for example, I worked on a cool web-based rhythm game and a device that visualize the played drum/note from my real e-drum set; more precisely, a Guitar Hero clone web application and Arduino-powered LED visualization (both with MIDI support). Maybe I am the only person world-wide that built this exact combination of things. And still, I never made a proper video showing it off.
 
 I only made mediocre videos with a smartphone of me hitting the drums, while playing the game. You hear the clickety clackety of the drum heads but not the audio that I hear via headphones. I showed these videos to some friends. But never made a proper recording attempt to also capture the game's sound and song audio because it would required extra steps to record the different media sources and edit it into a video as a whole. The additional effort was a too high of an barrier for me to take action. I worked on it for 9 month but by now (another year passed) the momentum and motivation is kinda lost. I still want to create the video to validate if this web game would be interesting to other people; I could publish it as a product but don't want to invest more time into it without feedback.
 
 _<p style="text-align: right !important;">At least, I shared it to some friends and so far the resonance was positive. (Well that's what good friends are for even if the game is subpar). While writing this, I am wondering why I didn't share the mediocre video on Reddit or the like? Well, I guess that's why I am writing this essay to unblock me and unlearn this behavior.</p>_
 
-_<p style="text-align: right !important;">Well, now I finally did make the video. I've been postponing to publish this essay due to the missing video for a veryyy long time. I guess I've learnt nothing from this essay, lol. But also I didn't expect that it would be such a struggle to record the e-drum sounds and also the background song from the game at the same time (plus recording a video of me playing with a camera and then editing everything together in post production).</p>_
+_<p style="text-align: right !important;">Well, now I finally did make the video. I've been postponing to publish this essay due to the missing video for a veryyy long time (another half a year or so). I guess I've learnt nothing from this essay, lol. I made multiple attempts but I didn't expect that it would be such a struggle to record the e-drum sounds and also the background song from the game at the same time.</p>_
 
-_<p style="text-align: right !important;">I couldn't figure out how to wire the (virtual) MIDI cables from the web application into two things at the same time: 1. the Arduino LED visualization and 2. an audio program (Reaper DAW) for recording good drum sounds. All sorts of fuckups: driver issues, weird static noise, lags... Eventually, I realized I could simply record the drum sounds from my e-drum module directly. This sounds a bit worse than the sounds from the audio program but this finally unblocked me. When a friend asked me yesterday about the project, I got the motivation to pick it up again do a recording session. After 14 takes, I got one that was good enough™.</p>_
+_<p style="text-align: right !important;">I couldn't figure out how to wire the (virtual) MIDI cables from the web application into both the Arduino LED visualization and the audio program (DAW) Reaper (for better drum sounds). All sorts of fuckups: driver issues, weird static noise, input lag... Eventually, I realized I could simply record the drum sounds from my e-drum module directly. This sounds a bit worse than the sounds from the audio program. But this approach was good enough and finally unblocked me. When a friend asked me yesterday about the project, I got the motivation to pick it up again to do a recording session. After 14 takes, I got one that was good enough™. I still see plenty of things that could be played better but that's ok.</p>_
 
-_<p style="text-align: right !important;">So, I guess I learned at least something from my essay.</p>_
+_<p style="text-align: right !important;">So, I learned at least something from my essay before even publishing it. For example, looking and opting for a workaround, even if it is of lower quality is acceptable and can move you forward. Now, that I think about it, maybe the purpose of this essay was to actually get this video out. So, maybe the actual lesson is that you can write 3.500 words about an issue, that you are stuck on, to unblock yourself.</p>_
 
-Here the video: https://youtu.be/msxFJdPYoAk
+Here the drum video: https://youtu.be/msxFJdPYoAk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msxFJdPYoAk?si=SjLEqyHZZMmher4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>asd</iframe>
 
@@ -85,7 +87,7 @@ The point I am actually trying to make is that even unfinished or half-baked cre
 
 An example and proponent of this idea is Visakan Veerasamy with his self-published ebook Introspect. The book is unpolished in many ways compared to traditional book publishing standards (e.g. a bit repetitive, verbose, not proof-read by an editor, and so on). Among other topics, it covers themes like understanding your emotions, clearing mental fog, and resolving inner conflicts that prevent you from living your life to the fullest. It contains all sorts of advice to try and could be described as a handbook for digging deeper into one's self to uncover the root cause of personal problems and shortcomings in your life.
 
-A particularly interesting section contains meta-commentary in right-aligned text that is written in a kind of fourth-wall breaking way (see a screenshot of the text snippet in the footnotes[^2]). It's a clear cut from the normal prose, which allows the reader to witness the author's inner monologue and self-critical thoughts. The kind of self-doubting thoughts and mental negotiations, you might have with yourself as well.
+The book's contents are interrupted by a few interesting meta-commentary sections that are written in right-aligned text and a kind of fourth-wall breaking way (see a screenshot of one section in the footnotes[^2]). It's a clear cut from the normal prose, which allows the reader to witness the author's inner monologue and self-critical thoughts. The kind of self-doubting thoughts and mental negotiations, you might have with yourself as well.
 
 The commentary compares and puts the imperfection of both the book and one's life into perspective. It describes the flaws of the book and how it should be further improved in future versions. The writing project was challenging and at the edge of the author's abilities. He describes that he has to publish the book in it's current state, otherwise it would stay in the writing stage for too long and not serve anyone.
 
@@ -121,9 +123,9 @@ But the book contains lots of valuable insights, many things to try, loads of in
 
 P.S.
 Having written this essay -- and it has been sitting to simmer at the back of my head -- I come back to it now because I got another insight. I think, deep down it's the fear of being perceived as incompetent or not capable. It's this need of being perceived as flawless as possible and great overall. Publishing something unpolished, would make me look bad. People might think, I can't do it better. Maybe I could but I currently don't have the time, headspace, energy or whatever to do a better job. Basically my ego and pride would be hurt and that's preventing me from sharing earlier. Acknowledging this is a good start. I guess becoming independent of external validation is another step and part of the journey.
-_(I got this thought from the "You can just do things" [questionare](https://www.catehall.com/cringe-minefield-quiz) by Cate Hall and the section about  incomplete Spiderman drawing in ["Matryoshka of Possibilities"](https://visakanv.substack.com/p/a-matryoshka-of-possibilities) by Visa)_
+_(I got this thought from the "You can just do things" [questionare](https://www.catehall.com/cringe-minefield-quiz) by Cate Hall and the section about  incomplete Spiderman drawing in ["Matryoshka of Possibilities"](https://visakanv.substack.com/p/a-matryoshka-of-possibilities) by Visakan Veerasamy)_
 
-In the end, the things that are unpolished are more raw and honest in contrast to work that is so flawless it feels sterile. Unpolished work has other qualities, e.g. more personality or evoking another set of emotions. Just like the ugly Pikachu and goofy Spiderman (or the work of kids that were not socialized yet[^3]. Their learning didn't converge on social convention yet so they are still drawing in a kind of non-conformists way. See for example, these [bird drawings](https://x.com/dansinker/status/1272564438315532292) of a four year old:
+In the end, the things that are unpolished are more raw and honest in contrast to work that is so flawless it feels sterile. Unpolished work has other qualities, e.g. more personality or evoking another set of emotions. Just like the ugly Pikachu and goofy Spiderman (or the work of kids that were not socialized yet[^3]). Their learning didn't converge on social convention yet so they are still drawing in a kind of non-conformists way. For example, I somehow love these [bird drawings](https://x.com/dansinker/status/1272564438315532292) of a four year old:
 
 ![Bird drawings by a four year old](./imgs/owl_dansinker_status_1272564438315532292.jpg "Birds drawings by a four year old")
 
@@ -136,11 +138,11 @@ Here are some other aspects and benefits of sharing that I felt like didn't cont
 - Even failures and set backs can be framed as valuable learnings lessons and thus are worth sharing.
 - What's obvious to you, isn't for others. There are 10.000 people everyday discovering something for the first time ([obligatory xkdc](https://xkcd.com/1053)). Maybe the thing you aren't sharing yet, could be such a discovery for someone else.
 - You can even consume your own creations in the future and have a one-way conversations with your past-self. Its like cutting a slice of your personality of that time and preserving it in resin. Wouldn't that be an interesting conversation partner?
-- Often a catchy phrase is what sells an idea. "Share half-baked cakes" is my attempt at such a phrase. I was also considering "Half baked is edible" beforehand. There are probably some lessons about marketing or memetics to learn about why some ideas spread when packaged with a good mnemonic.
+- Often a catchy phrase is what sells an idea. "Share half-baked cakes" is my attempt at such a phrase. I was also considering "Share Half-Baked Goods" or "Half baked is edible"  beforehand. There are probably some lessons about marketing or memetics to learn about why some ideas spread when packaged with a good mnemonic.
 - writing down your thoughts can help you become more clear and aware about some things. You can practice this with every written piece of text, even an email. It will likely make you a better communicator and storyteller. After all ["the most powerful person in the world is a storyteller."](https://www.google.com/search?q=steve+jobs+%22The+most+powerful+person+in+the+world+is+a+storyteller%22)
 - Further reading
 	- https://x.com/visakanv/status/1544989038087614464?s=20
-	- "Lurk less poast more" explores the side of using social media as a form of self-expression.
+	- ["Lurk Less, Live More"](https://univrsw3th4rt.gumroad.com/l/lurklesslivemore) explores the side of using social media as a form of self-expression.
 
 ---
 
